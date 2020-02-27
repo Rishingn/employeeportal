@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/emp-portal/precache-manifest.51ab5d59de51c24e37b00286a9a1125b.js"
+  "/emp-portal/precache-manifest.ae314281bc785466ae503062c908c3ba.js"
 );
 
 self.addEventListener('message', (event) => {
